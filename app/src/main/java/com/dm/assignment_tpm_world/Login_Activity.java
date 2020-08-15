@@ -44,6 +44,7 @@ public class Login_Activity extends AppCompatActivity {
         button = findViewById(R.id.btn);
         resend = findViewById(R.id.resend);
 
+        //firebaseAuth
         Auth = FirebaseAuth.getInstance();
 
         final String number = getIntent().getStringExtra("phoneNo");
