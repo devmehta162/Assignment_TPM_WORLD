@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Assignment_TPM_WORLD</string>
+    <string name="title_activity_login_">Login_Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="get_the_otp">Get OTP</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_in_new">Sign in</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="pdf_viewer">PDF Viewer</string>
+    <string name="didn_t_recieve_the_code">Didn\'t recieve the code ?</string>
+    <string name="cars">Cars</string>
+    <string name="todo">TODO</string>
+</resources>
