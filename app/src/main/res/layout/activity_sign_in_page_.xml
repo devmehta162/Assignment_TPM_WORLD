@@ -9,14 +9,6 @@
     tools:context=".MainActivity">
 
 
-<!--        <TextView-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:text="Welcome Back,\nplease login\nto your account"-->
-<!--            android:layout_gravity="center"-->
-<!--            android:textColor="@android:color/black"-->
-<!--            android:textSize="28sp"-->
-<!--            android:textStyle="bold"/>-->
 
         <androidx.cardview.widget.CardView
             android:layout_width="350dp"
@@ -74,6 +66,16 @@
                             android:textColor="@android:color/black"
                             android:text="@string/get_the_otp"
                             />
+
+                        <Button
+                            android:id="@+id/btn_googleSignIn"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:backgroundTint="#fff"
+                            android:drawableLeft="@drawable/ic_google_icon"
+                            android:elevation="8dp"
+                            android:text="Sign In with Google"
+                            android:textColor="#000" />
 
 
 
